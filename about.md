@@ -1,6 +1,8 @@
+---
 layout: page
 title: "About"
 permalink: https://sumeishan.github.io/science-articles/about
+---
 
 # About Me 
 
