@@ -1,4 +1,1 @@
-remote_theme: jekyll/minima
-title: Science with Meishan  
-author: Michelle To (Meishan Su) 
-description: This website is documenting my lab tours, new science I learn about, and what I want to know more about.
+theme: minima
