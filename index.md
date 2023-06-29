@@ -5,14 +5,10 @@
   <link rel="stylesheet" type="text/css" href="style.css">
   <link href="https://fonts.googleapis.com/css?family=Open+Sans&display=swap" rel="stylesheet">
 </head>
-<body>
-  <div class="top-bar">
-    <a href="about.md" class="page-link">About</a>
-  </div>
-
+<body> 
   <div class="main-content">
-    <h1>Adventures Around Science</h1>
-    <p> Hi there! This is a test to see how I can add a post onto this website. Thanks! </p>
+    <h1>Hi there!</h1>
+    <p> This is a test to see how I can add a post onto this website. Thanks! </p>
     <p> Future posts about Mandarin, Cantonese, biology, and hiking will be here. </p>
   </div>
 
