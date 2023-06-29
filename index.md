@@ -7,7 +7,7 @@
 </head>
 <body>
   <div class="top-bar">
-    <a href="about.html" class="page-link">About</a>
+    <a href="about.md" class="page-link">About</a>
   </div>
 
   <div class="main-content">
