@@ -8,6 +8,9 @@ date: 2023-07-06
     <title>Image Example</title>
 </head>
 <body>
-    <img src="https://pics.walgreens.com/prodimg/639244/450.jpg" alt="Supplement Image">
+    <a href="https://www.walgreens.com/store/c/airborne-zinc---vitamin-c-immune-support-supplement-chewable-tablets-orange/ID=300418159-product">
+  <img src="https://pics.walgreens.com/prodimg/639244/900.jpg" alt="Airborne Zinc + Vitamin C">
+</a>
+
 </body>
 </html>
